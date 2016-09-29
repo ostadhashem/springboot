@@ -1,0 +1,13 @@
+
+---
+spring:
+  profiles: default
+name: This is name's value in default environment
+---
+spring:
+  profiles: dev
+name: Theis is DEV value for name service from Configuration
+---
+spring:
+  profiles: qa, prod
+name: This is name's value in QA & PROD environment

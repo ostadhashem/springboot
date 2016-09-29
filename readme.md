@@ -1,0 +1,1 @@
+This is a sample project for integrating Spring Boot, Spring Context and Gradle
